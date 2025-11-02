@@ -1,6 +1,6 @@
 # Unreal Snippets
 
-A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
+Modified version of the sublime-unreal-snippets to add some more classes and update existing snippets for Unreal Engine 5
 
 Some of these snippets assume that your project's source modules follow the convention of splitting source files into _Public_ and _Private_ subdirectories.
 
@@ -32,6 +32,7 @@ Some of these snippets assume that your project's source modules follow the conv
 - **uca** - Declare an AActor subclass
 - **ucs** - Declare a UBlueprintFunctionLibrary subclass (i.e. a "statics" class)
 - **uci** - Declare a UInterface subclass with associated native interface
+- **ucw** - Declare a UUserWidget subclass
 
 **Macros (C++)**
 
